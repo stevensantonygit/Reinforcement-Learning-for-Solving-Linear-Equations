@@ -1,8 +1,8 @@
 # Reinforcement-Learning-for-Solving-Linear-Equations
 This project implements a reinforcement learning (RL) agent using Q-learning to solve linear equations of the form ax + by = c. The agent learns to minimize the error between the predicted and target values by navigating a grid of points and adjusting its (x, y) values. The code also includes testing and interactive modes for users to experiment with custom equations.
 
-![Result](/workspaces/Reinforcement-Learning-for-Solving-Linear-Equations/images/Result.png)
-![Heatmap generation](/workspaces/Reinforcement-Learning-for-Solving-Linear-Equations/images/Heatmap generation.png)
+![Result](images/result.png)
+![Heatmap_generation](images/error_heatmap.png)
 
 Features
 Q-learning: The agent learns using Q-learning, adjusting its actions to minimize the error between its predictions and the target values of the equations.
